@@ -10,5 +10,5 @@ spring:
 ---
 spring:
   profiles: test #测试环境
-  application：
+  application:
     name: zbdservicecloud-config-zbd-test
